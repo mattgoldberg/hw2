@@ -1,5 +1,4 @@
 let handleImageClick = function(event) {
-console.log("Howdy")
 
   let theImage = jQuery(this)
   let srcValue = theImage.attr("src")
